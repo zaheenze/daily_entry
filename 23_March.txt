@@ -1,0 +1,32 @@
+Second day started off with Puri and aalu as breakfast. Kalyan, my mentor asked me to start with linux and javascript basics. Since I was not known to Javascript, I had to google and start from the scratch. Creating a function was the first thing I learned. I learned to perform the basic mathematical calculation such as addition, subtraction, division and multiplication. I also came across two methods for performing the same calculation. One was by assigning values to different constrains say a, b and c. For example:
+Let a=15;
+Let b=15;
+Let c=a+b;
+console.log(c);
+Ans: 30
+
+The other method was assigning a function for different calculation. For example:
+
+function sum(a,b)
+{return a+b;
+}
+sum(5,5);
+Ans: 10
+
+Then came the basics of Linux. The basics commands were learned like:
+pwd= to check current directory
+cd= to navigate to  next directory or sub directory.
+cd ..=move a level up
+cd -=move a level down
+mkdir= to make a folder
+touch= to make a file
+vi=to open the file
+:w= to save the text file
+:q= to quit the text file
+:wq= to save and quit the text file
+
+These taught the fundamentals of Linux and how to start our daily tasks in a text file via linux.
+Apart from that, yesterdays's assignment was brought forward for the pending people working in the company. Around 16 people were talked to and listed.
+The time passed by and lunch was followed. The next session was about logical thinking by Koushik. He claimed that a life cant be lived without problems and life was all about finding a solution to some or the other problem. As homework, he asked us to find a solution to a problem- a 5l and 3L can  is given without any measurements on them. An amount of 4L of water was required. How to get that with these two can was the question.
+
+Finally, today I worked on Figma as instructed by Kalyan. I learned few basics like designing of an interface, how to add plugins, add graphics and connecting various prototype and screens. It was a really interesting one since I got a chance to design an interface with my imagination and idea. Kalyan also taught me how to sync the prototype into our phones.
