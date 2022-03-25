@@ -1,0 +1,63 @@
+Today's first task assigned by mentor Kalyan was to do a research on SDLC. After doing athorough research, he asked me to make a presentation regarding the same from what I have understood. As usual, the work started by googling what SLDC was.
+SLDC or when expanded Software Development Life Cycle is a process that is followed in different means in different ways in the domain of software development. In short, it is a method used to design, develop and test high quality softwares. It is also known as Software Development Process. SLDC gives few added advantages like lowering the software development cost, improving the quality of the code, shortening the overall production time and ensures that the code doesnt fail in any condition. SDLC undergoes a set of processes.They are:
+1. Planning
+2. Defining
+3. Designing
+4. Building
+5. Testing
+6. Deployment
+7. Maintenence
+These steps can also be called stages.
+ 
+Stage 1: Planning and Requirement Analysis
+This stage takes the inputs from customers, sales departments,market suveys and the domain experts. This approach is used for planning quality assurance and to conduct product feasibility study. Identification of risks associated is also done. Finally, implementing the project at minimum risks is what stage 1 is all about.
+
+Stage 2: Defining Requirements
+This stage clealy defines and documents the product requirements. It includes getting approvals from the market and customer analysts. SRS is the highlight of this stage. SRS means Software Requirement Specification which consists of all product requirements and developments.
+
+Stage 3: Designing Product Architecture
+This stage is where the designing or architecture for the product comes into action. Usually more than one designs is proposed at this stage. These are documented in a DDS.DDS means Design Document Specification which contains all the proposed designs and its parameters. DDS is reviewed by the stakeholders and the best architectue is selected after all assessments.
+
+Stage 4: Building/ Developing the Product
+In this stage is where the role of SDLC comes into major play. Here, SDLC develops and builds the product. The code of high quality is generated as per the DDS.
+
+Stage 5: Testing the Product
+This is the stage where all the product defects are reported, tracked, fixed and retested until the product reaches the SRS.
+
+Stage 6: Deployment in the Market and Maintenence
+This stage is where the product is deployed into the market. This is done after learning about the market strategies and business scope. Above all, the deployment depends upon the company policies.
+
+Stage 7: Maintenence of the Product
+This stage is more or like a simulation of customer service and troubleshooting. It requires time to time problem solving of clients and customers. At the same time, the product must be well updated to cope up with the competitors in the market.Else it will turn out to be an utter failure
+
+Stage 7: Maintenence of the Product
+This stage is more or like a simulation of customer service and troubleshooting. It requires time to time problem solving of clients and customers. At the same time, the product must be well updated to cope up with the competitors in the market.Else it will turn out to be an utter failure.
+
+SDLS adapts certain working models to implement their production and process. They are:
+
+1. Waterfall Model
+This is the oldest at the same time the most straightforward model. It adapts a method of finishing one phase first completely and then starting the next one. Since it is the oldest one, it has a drawback as small and minute details left incomplete causes lags.
+
+2.Agile Model
+This model adapts a separation technique. The production is separated into various cycles. Testing each release feeds and incorperating them into the next version is how it is done. Here, the product is delivered quicker comparitively. Though delivered quickly, alot of customer feedback and interaction might mislead the project in the wrong direction. Hence, this is the major drawback of this model.
+
+3. Iterative Model
+As the name suggests, this method involves repeated testing and improvement step by step. A quick version of the product is developed and through continuous testing, issues are rectified one by one. Thus, if alot of trial and errors is undergone without a proper stategy, the resources and funds might get fueled up.
+
+4. V-shaped Model
+This model is similar to that of waterfall model but testing is done after every single stage before moving to the next stage. 
+
+5. Big Bang Model
+This is one of the model that requires the most resource backup. This is because the most of the  resources here is used up during the development stage. In general, it is is quiet ideal for smaller projects and products.
+
+6. Spiral Method
+This method is similar to that of Iteration model. This model undergoes continuous planning, building and testing and hence the improvements are utilised in every stage.
+
+Advantages of SDLC:
+=allows the highest level of management control and documentation
+=all parties agree to for the same goal with a better and clear vision.
+
+Disadvantages of SDLC:
+=if not well-implemented can lead to literal fall of the product
+=requires continuous funding until the product is ready.
+=can put the stakeholders at risk 
